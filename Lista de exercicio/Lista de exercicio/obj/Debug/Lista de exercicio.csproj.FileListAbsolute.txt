@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\bin\Debug\Lista de exercicio.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\bin\Debug\Lista de exercicio.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\bin\Debug\Lista de exercicio.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\obj\Debug\Lista de exercicio.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\obj\Debug\Lista de exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\obj\Debug\Lista de exercicio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\obj\Debug\Lista de exercicio.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Lista de exercicio\Lista de exercicio\obj\Debug\Lista de exercicio.pdb
